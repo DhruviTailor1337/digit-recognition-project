@@ -138,8 +138,6 @@ EDA, training, and evaluation walkthrough with explanations.
 - [x] Trained AI/ML Model (`models/digit_recognition_model.h5`)
 - [x] README Documentation (this file)
 - [x] Project Report — PDF (`reports/Project_Report.pdf`)
-- [ ] Demo Video (3–5 minutes) — to be recorded separately and linked here
-- [ ] Live Deployment (optional) — deploy `app/app.py` to Streamlit Community Cloud
 
 ## 9. Author
 
